@@ -14,7 +14,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "PRKD SONS WELDING AND PUNCTURE",
   description: "Professional welding, puncture repair, and spare parts services",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
